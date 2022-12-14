@@ -1,4 +1,8 @@
-﻿using System.Diagnostics;
+﻿//Полностью рабочая игра Судоку, выполненная при помощи языка c#.
+//Использована трёхуровненвая архитектура и парадигмы ООП
+//Уникальная генерация уровней и возмонжость выбора режима сложности
+//Полностью рабочий таймер и запись рекордов!!!
+using System.Diagnostics;
 using System.Diagnostics.Metrics;
 using System.Globalization;
 using static System.Net.Mime.MediaTypeNames;
